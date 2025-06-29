@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Live App](https://webzycle-thumbnail-agency.vercel.app/) <!-- Replace with actual link if hosted -->
+👉 [Live App](https://webzycle.vercel.app/) <!-- Replace with actual link if hosted -->
 
 ## 🛠️ Tech Stack
 
