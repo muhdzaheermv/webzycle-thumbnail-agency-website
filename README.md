@@ -1,6 +1,6 @@
 # 🎯 WebZycle - YouTube Thumbnail Agency Landing Page
 
-![Homepage](.images/t1.png)
+![Homepage](./images/t1.png)
 
 **WebZycle** is a creative agency landing page offering **YouTube thumbnail design services**. Built using **HTML**, **CSS**, and **JavaScript**, this responsive layout is perfect for showcasing digital services with a modern, clean UI.
 
@@ -24,7 +24,7 @@
 
 ## 📸 Screenshot
 
-![Homepage](.images/t2.png)
+![Homepage](./images/t2.png)
 
 ## 📚 Ideal For
 
